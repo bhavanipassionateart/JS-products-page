@@ -1,6 +1,6 @@
 .product {
 cursor: pointer;
 }
-.product.info{
+.product .info{
     display: none;
 }
